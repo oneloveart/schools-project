@@ -59,11 +59,13 @@ mvn exec:java
 CSV загружается в таблицы,
 В консоль выводятся результаты трёх задач**
 
-![console-tasks](https://github.com/user-attachments/assets/c17b96a9-c84a-4d39-8511-ede0a92f18b5)
+![console-tasks](https://github.com/user-attachments/assets/f35e2fa1-0eb2-4289-bb1f-8e64d5820647)
+
 
 Генерируются диаграммы avg_students.png и avg_expenditure.png
 
-![avg_students](https://github.com/user-attachments/assets/2e363876-ea67-42c8-a1c3-3aea664fc1e5)
-![avg_expenditure](https://github.com/user-attachments/assets/bf3d0d77-152b-4a23-b755-c6f1020b7e23)
+
+![avg_expenditure](https://github.com/user-attachments/assets/9edd0af0-e3f1-4c60-88d3-8e1d950940df)
+![avg_students](https://github.com/user-attachments/assets/46d4a792-3a80-4ba0-a725-8beab9b2fc34)
 
 
